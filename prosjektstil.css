@@ -128,11 +128,12 @@
 .innhold a {
     text-decoration: none;
     color: #D17860;
-    font-weight: bold;
+    
 }
 
 .innhold a:hover {
     color: #D17860;
+    font-weight: bold;
 }
 
 /* bunnpynt */
