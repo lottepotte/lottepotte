@@ -83,6 +83,14 @@
     width: 100%;
     max-width: 500px; 
 }
+
+.album img {
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .innhold h1{
 text-align: center; 
 font-family: bookmania, serif;
